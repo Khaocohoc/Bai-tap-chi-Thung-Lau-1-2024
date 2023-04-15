@@ -158,7 +158,7 @@ ggplot(mt, aes(x = reorder(Loaidienghe, Gocghengoai, color = Loaihinh),
   ylab("Số lượng") +
   coord_flip()
 
-
+# Thay doi lan 2
 
 
 # Kiem dinh ANOVA cho chi so GOC LUOI
